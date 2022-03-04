@@ -5,8 +5,8 @@
 
 
 ## Recent Projects
-- ** Mx player web Clone**
-- ** Live Tv & Cricket Streaming App**
+- **Mx player web Clone**
+- **Live Tv & Cricket Streaming App**
 
 ## Closed Projects
 - **APP FOR BCA APK**
