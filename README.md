@@ -4,11 +4,11 @@
 
 
 
-##Recent Projects
+## Recent Projects
 - ** Mx player web Clone**
 - ** Live Tv & Cricket Streaming App**
 
-##Closed Projects
+## Closed Projects
 - **APP FOR BCA APK**
 # My Social Profiles
 <p align="center">
