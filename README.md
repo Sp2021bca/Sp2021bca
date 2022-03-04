@@ -1,8 +1,12 @@
 ## 👋 Hi, I’m Sahil Patel , Welcome to my GitHub Profile
 - **📚 BCA Student**
 - **🌱 Exploring and Developing Web Apps**
+#Recent Projects
+- ** Mx player web Clone**
+- ** Live Tv & Cricket Streaming App**
 
-
+#Closed Projects
+- **APP FOR BCA APK**
 # My Social Profiles
 <p align="center">
 <a href="https://www.instagram.com/sahil_patel_3062" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/sahil patel-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
