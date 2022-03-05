@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/sahil_patel_3062" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/sahil patel-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/SahilPa54007777" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/sahil patel-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="http://snapchat.com/add/sahil_patel996" target="_blank"><img alt="Snapchat" src="https://img.shields.io/badge/sahil patel-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
-<a href="https://t.me/Royelpatidar" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/sahil patel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Royalpatidar" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/sahil patel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/sahil patel-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 
