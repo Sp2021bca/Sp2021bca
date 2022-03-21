@@ -7,10 +7,12 @@
 ## Recent Projects
 - **New App For Bca Apk**
 - **Zee5 & Jio Tv Clone**
+
+## Completed Projects
 - **Mx player web Clone**
 - **Live Tv & Cricket Streaming App**
 - **Ecom Website**
-
+- 
 ## Closed Projects
 - **APP FOR BCA APK**
 # My Social Profiles
